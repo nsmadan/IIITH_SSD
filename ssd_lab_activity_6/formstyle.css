@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+input[type=text] {
+    width: 10%;
+    padding-right: 100px;
+    margin: 10px  ;   
+  }
+ 
